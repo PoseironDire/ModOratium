@@ -17,9 +17,9 @@ namespace ModOratium.Items.NPCs.TownNPCs
     [AutoloadHead]
     public class Biden : ModNPC
     {
-        public override string Texture => "OratiumMod/Items/NPCs/TownNPCs/Biden";
+        public override string Texture => "ModOratium/Items/NPCs/TownNPCs/Biden";
 
-        public override string[] AltTextures => new[] { "OratiumMod/Items/NPCs/TownNPCs/Biden_Alt_1" };
+        public override string[] AltTextures => new[] { "ModOratium/Items/NPCs/TownNPCs/Biden_Alt_1" };
 
         public override bool Autoload(ref string name)
         {
@@ -88,7 +88,7 @@ namespace ModOratium.Items.NPCs.TownNPCs
         }
 
         /*
-                // Example Person needs a house built out of OratiumMod tiles. You can delete this whole method in your townNPC for the regular house conditions.
+                // Example Person needs a house built out of ModOratium tiles. You can delete this whole method in your townNPC for the regular house conditions.
                 public override bool CheckConditions(int left, int right, int top, int bottom) {
                     int score = 0;
                     for (int x = left; x <= right; x++) {

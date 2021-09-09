@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yr7ZadCeTx9C7gG47QfG7xYivS6/sV2WcrsENI8pygf9nltYoJXHPpwPmfjZvIOiFalwFXBS9IjnFhXGI/Touw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\edvin.tsygankov\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\ModOratium\\ModOratium.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edvin.tsygankov\\.nuget\\packages\\tmodloader.codeassist\\0.1.2\\tmodloader.codeassist.0.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
